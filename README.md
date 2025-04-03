@@ -69,8 +69,6 @@ Project Solaris is a spatial data science project focused on identifying and eva
 - AHP-weighted scores for site selection
 - Final plots of viable solar zones and economic viability
 
-> 📁 Selectde outputs are saved in the `/tmp` and `/output` directories (as `.tif`, `.gpkg`, `.xlsx` files).
-
 ---
 
 ## 📊 Example Outputs
