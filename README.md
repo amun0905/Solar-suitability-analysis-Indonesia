@@ -1,10 +1,10 @@
-# ☀️ Project Solaris: Solar Energy Site Suitability in Indonesia
+# Solar Energy Site Suitability in Indonesia
 
 Project Solaris is a spatial data science project focused on identifying and evaluating the most suitable locations for large-scale solar energy projects in Indonesia. Using a combination of land cover data, solar radiation, infrastructure proximity, environmental restrictions, and economic evaluation, the project performs a comprehensive multi-criteria assessment for solar potential.
 
 ---
 
-## 📍 Objectives
+## Objectives
 
 - Identify land in Indonesia suitable for solar development
 - Integrate environmental and infrastructure data (grid, roads, mountains, nature reserves)
@@ -13,7 +13,7 @@ Project Solaris is a spatial data science project focused on identifying and eva
 
 ---
 
-## 🧰 Tools & Packages
+## Tools & Packages
 
 - **R Language** with:
   - `sf`, `terra`, `raster` — spatial data processing
@@ -24,7 +24,7 @@ Project Solaris is a spatial data science project focused on identifying and eva
 
 ---
 
-## 🗂️ Data Inputs
+## Data Inputs
 
 - **Land Cover:** Copernicus LC, filtered for suitability
 - **Solar Radiation:** NetCDF from Copernicus for 4 seasonal days in 2023
@@ -34,7 +34,7 @@ Project Solaris is a spatial data science project focused on identifying and eva
 
 ---
 
-## 📈 Workflow
+## Workflow
 
 1. **Preprocessing & Land Masking**
    - Extract LCCS types and reduce to suitable land
@@ -62,7 +62,7 @@ Project Solaris is a spatial data science project focused on identifying and eva
 
 ---
 
-## 🗺️ Outputs
+## Outputs
 
 - Raster and vector outputs for suitability zones
 - Ranked site matrix with energy potential and economic scores
@@ -71,7 +71,7 @@ Project Solaris is a spatial data science project focused on identifying and eva
 
 ---
 
-## 📊 Example Outputs
+## Example Outputs
 
 You can include some of these if available:
 ```r
