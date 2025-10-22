@@ -61,12 +61,12 @@ Relative importance of factors:
 | Grid proximity | 0.23 |
 | Population proximity | 0.12 |
 
-Each raster cell (20×20 km) was scored from 1 to 5 and weighted to produce a **final suitability index**.
+Each raster cell (20×20 km) was scored from 1 to 5 and weighted to produce a final suitability index.
 
 ### Step 4 – Spatial Interpolation and Scoring
-- Missing solar data were filled using **Inverse Distance Weighting (IDW)** interpolation.  
+- Missing solar data were filled using Inverse Distance Weighting (IDW) interpolation.  
 - Suitability map produced for all non-excluded areas.  
-- Top-ranked cells representing **127 TWh** of production (≈60.4 GW capacity) were selected as optimal sites.
+- Top-ranked cells representing 127 TWh of production (≈60.4 GW capacity) were selected as optimal sites.
 
 ---
 
@@ -80,8 +80,8 @@ Nine 12 km² sites were identified as the most suitable for new solar power plan
 These locations collectively satisfy Indonesia’s 2040 solar capacity target (≈60.4 GW).
 
 ### Suitability Overview
-- 65 of 1,226 analyzed cells scored the **maximum suitability value (5)**.  
-- Large areas across Indonesia show **high solar potential**, suggesting significant untapped renewable energy capacity.
+- 65 of 1,226 analyzed cells scored the maximum suitability value (5).  
+- Large areas across Indonesia show high solar potential, suggesting significant untapped renewable energy capacity.
 
 ---
 
