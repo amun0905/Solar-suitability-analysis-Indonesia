@@ -69,13 +69,3 @@ Project Solaris is a spatial data science project focused on identifying and eva
 - AHP-weighted scores for site selection
 - Final plots of viable solar zones and economic viability
 
----
-
-## Example Outputs
-
-You can include some of these if available:
-```r
-ggplot() +
-  geom_sf(data = boundaryU) +
-  geom_sf(data = matrix2, aes(fill = "kwh")) +
-  labs(title = "Solar Suitability Map")
