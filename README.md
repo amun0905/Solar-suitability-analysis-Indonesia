@@ -1,4 +1,4 @@
-# Solar Power Plant Investment in Indonesia: A Decarbonized Electrical Supply Vision to 2040
+# Solar Power Plant Investment in Indonesia: A Suitability Analysis
 
 The project applies Geographic Information Systems (GIS) and Analytical Hierarchy Process (AHP) techniques to identify suitable areas for solar power plant development in Indonesia by 2040.  
 The analysis combines spatial, environmental, and socioeconomic datasets to assess land suitability, project electricity demand, and evaluate financial feasibility.
